@@ -1,2 +1,1 @@
-# stepik-github
-stepik в github
+Мой первый репозиторий
